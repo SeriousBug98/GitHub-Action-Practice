@@ -8,6 +8,7 @@ public class SpringmvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringmvcApplication.class, args);
+		일부러 틀리게 ㅇㅇ;
 	}
 
 }
